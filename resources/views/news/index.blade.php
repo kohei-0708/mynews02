@@ -3,6 +3,7 @@
 @section('content')
     <div class="container">
         <hr color="#c0c0c0">
+        <p><font size="7" color="#ff0000">Heroku課題追加</font></p>
         @if (!is_null($headline))
             <div class="row">
                 <div class="headline col-md-10 mx-auto">
